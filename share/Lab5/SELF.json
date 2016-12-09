@@ -1,0 +1,581 @@
+{
+    "graph": {
+        "nodes": [
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "MSN4", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "MSN4"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "CIN5", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "CIN5"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "MAC1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "MAC1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "CUP9", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "CUP9"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "HAL9", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "HAL9"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "FHL1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "FHL1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "NRG1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "NRG1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "STB1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "STB1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "NDD1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "NDD1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "FKH2", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "FKH2"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "MBP1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "MBP1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "MCM1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "MCM1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "ACE2", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "ACE2"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "YAP6", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "YAP6"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "ABF1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "ABF1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "YAP1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "YAP1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "SKN7", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "SKN7"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "RAP1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "RAP1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "ROX1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "ROX1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "PHD1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "PHD1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "SWI4", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "SWI4"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "SWI6", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "SWI6"
+                }
+            }
+        ], 
+        "edges": [
+            {
+                "data": {
+                    "source": "ACE2", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "FKH2", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ACE2", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MCM1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ACE2", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "NDD1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "FKH2", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "FHL1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "NDD1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "STB1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "NDD1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "NDD1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI6", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SWI4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MBP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SWI4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MCM1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SWI4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SWI4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI6", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ABF1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MBP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ABF1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI6", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "FHL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ABF1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "FHL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MSN4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "RAP1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "RAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "CIN5", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "YAP6", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "CUP9", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "PHD1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "CUP9", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MAC1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "MSN4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "PHD1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "MSN4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "RAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "MSN4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "HAL9", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ROX1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SKN7", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ROX1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "CIN5", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ROX1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "YAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ROX1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "YAP6", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ACE2", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SKN7", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP6", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "CIN5", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP6", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "CUP9", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP6", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ROX1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP6", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "YAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP6", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "YAP6", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP6", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "NRG1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "NRG1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SKN7", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "NRG1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "NRG1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }
+        ]
+    }, 
+    "metadata": {
+        "tags": [
+            "Lab5"
+        ], 
+        "description": "Lab5011", 
+        "title": "Lab5 largest CCSELF"
+    }
+}

@@ -1,0 +1,3890 @@
+{
+    "metadata": {
+        "tags": [
+            "HW3"
+        ],
+        "description": "absoluteValueDifference",
+        "title": "absoluteValueDifference"
+    },
+    "graph": {
+        "nodes": [
+            {
+                "data": {
+                    "height": 50,
+                    "content": "ABI1",
+                    "id": "ABI1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d8"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "EPS8",
+                    "id": "EPS8",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626c5"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "AP2A1",
+                    "id": "AP2A1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626fc"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "EPN1",
+                    "id": "EPN1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626b8"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "EPS15",
+                    "id": "EPS15",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d6"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "SHC1",
+                    "id": "SHC1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#26269b"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "ASAP1",
+                    "id": "ASAP1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626ad"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "REPS2",
+                    "id": "REPS2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626eb"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "SH3KBP1",
+                    "id": "SH3KBP1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626ea"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "CAV1",
+                    "id": "CAV1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626ba"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "DNM1",
+                    "id": "DNM1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e2"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "EGFR",
+                    "id": "EGFR",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#26262a"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "EGFR,SRC,PTK2",
+                    "id": "EGFR,SRC,PTK2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626ce"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "GRB7",
+                    "id": "GRB7",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626ce"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MAPK1",
+                    "id": "MAPK1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626b0"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MAPK3",
+                    "id": "MAPK3",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e8"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PLD1",
+                    "id": "PLD1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626cb"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "CAV2",
+                    "id": "CAV2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626f1"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RASA1",
+                    "id": "RASA1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626bf"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "SRC",
+                    "id": "SRC",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626a6"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "CBL",
+                    "id": "CBL",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626ab"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "CRK",
+                    "id": "CRK",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626bc"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "CRKL",
+                    "id": "CRKL",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d0"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "GRB2",
+                    "id": "GRB2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#26269d"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PIK3R1",
+                    "id": "PIK3R1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626eb"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PIK3R2",
+                    "id": "PIK3R2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626eb"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PLCG1",
+                    "id": "PLCG1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626b5"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "SPRY2",
+                    "id": "SPRY2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626ee"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "CBLB",
+                    "id": "CBLB",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626cd"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "CBLC",
+                    "id": "CBLC",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626c5"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "CDC42",
+                    "id": "CDC42",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626aa"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MAP3K1",
+                    "id": "MAP3K1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626fd"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MAP3K4",
+                    "id": "MAP3K4",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#26267c"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "CEACAM1",
+                    "id": "CEACAM1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d1"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MAPK8",
+                    "id": "MAPK8",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626da"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "SOS1",
+                    "id": "SOS1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626f7"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "CSK",
+                    "id": "CSK",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e2"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "CTNND1",
+                    "id": "CTNND1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e5"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PTPN6",
+                    "id": "PTPN6",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d0"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "SH3GL3",
+                    "id": "SH3GL3",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#26269b"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "DOK2",
+                    "id": "DOK2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626c5"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "NCK1",
+                    "id": "NCK1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626c6"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "EGF",
+                    "id": "EGF",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#262619"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "ERRFI1",
+                    "id": "ERRFI1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e2"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "GAB1",
+                    "id": "GAB1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626ad"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "GRB10",
+                    "id": "GRB10",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e3"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "INPPL1",
+                    "id": "INPPL1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d6"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "JAK1",
+                    "id": "JAK1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626c2"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "JAK2",
+                    "id": "JAK2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626b6"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MAP2K1",
+                    "id": "MAP2K1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626c5"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MAP3K14",
+                    "id": "MAP3K14",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e2"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "NCK2",
+                    "id": "NCK2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d3"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PIK3C2B",
+                    "id": "PIK3C2B",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d5"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PLD2",
+                    "id": "PLD2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626c8"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PLSCR1",
+                    "id": "PLSCR1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626cc"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PRKCA",
+                    "id": "PRKCA",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e2"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PTK6",
+                    "id": "PTK6",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626ce"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PTPN11",
+                    "id": "PTPN11",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626c9"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RGS16",
+                    "id": "RGS16",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e3"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RIPK1",
+                    "id": "RIPK1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e3"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "SHC1,GRB2,SOS1,IQGAP1,RACGAP1,VAV2,VAV3,AP2A1,AP2B1,AP2S1,CBLB,PTPN11,KRT7,KRT8,KRT17,KRT18,PLEC,EPPK1,CD59,HIST3H3,SNRPD2,MPRIP,SMU1",
+                    "id": "SHC1,GRB2,SOS1,IQGAP1,RACGAP1,VAV2,VAV3,AP2A1,AP2B1,AP2S1,CBLB,PTPN11,KRT7,KRT8,KRT17,KRT18,PLEC,EPPK1,CD59,HIST3H3,SNRPD2,MPRIP,SMU1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e3"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "SNRPD2",
+                    "id": "SNRPD2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e3"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "STAMBP",
+                    "id": "STAMBP",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e3"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "STAT1",
+                    "id": "STAT1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626ae"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "STAT3",
+                    "id": "STAT3",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#26269f"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "STAT5A",
+                    "id": "STAT5A",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d5"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "STAT5B",
+                    "id": "STAT5B",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626ce"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "TNK2",
+                    "id": "TNK2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626cd"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "VAV1",
+                    "id": "VAV1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e2"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "VAV2",
+                    "id": "VAV2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e3"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "VAV3",
+                    "id": "VAV3",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e2"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "ELK1",
+                    "id": "ELK1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626dc"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "EPS15L1",
+                    "id": "EPS15L1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#26266f"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "USP6NL",
+                    "id": "USP6NL",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e6"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "FOS",
+                    "id": "FOS",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d2"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "JUN",
+                    "id": "JUN",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626fd"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "JUND",
+                    "id": "JUND",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626f7"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PIK3R1,PIK3R2,PIK3R3,PIK3CA,PIK3CB,PIK3CG,PIK3CD",
+                    "id": "PIK3R1,PIK3R2,PIK3R3,PIK3CA,PIK3CB,PIK3CG,PIK3CD",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e3"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PTPN11,PXN",
+                    "id": "PTPN11,PXN",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e1"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PXN",
+                    "id": "PXN",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626fb"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "GAB2",
+                    "id": "GAB2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626fa"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "GJA1",
+                    "id": "GJA1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#26262e"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MAPK7",
+                    "id": "MAPK7",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#262694"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "GRB2,SOS1",
+                    "id": "GRB2,SOS1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d2"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "GRIM19",
+                    "id": "GRIM19",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e4"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "HRAS",
+                    "id": "HRAS",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626be"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RAF1",
+                    "id": "RAF1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626f4"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RALGDS",
+                    "id": "RALGDS",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#262667"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PTPN12",
+                    "id": "PTPN12",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626f1"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "SP1",
+                    "id": "SP1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626b0"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PEBP1",
+                    "id": "PEBP1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626fe"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MAP2K2",
+                    "id": "MAP2K2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d4"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MAP2K3",
+                    "id": "MAP2K3",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#26268e"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MAP2K5",
+                    "id": "MAP2K5",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#262645"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MAP3K3",
+                    "id": "MAP3K3",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#262600"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MAP2K7",
+                    "id": "MAP2K7",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#262674"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RAC1",
+                    "id": "RAC1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626ab"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PTPN5",
+                    "id": "PTPN5",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d3"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PTPRR",
+                    "id": "PTPRR",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d9"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RPS6KA1",
+                    "id": "RPS6KA1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d4"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RPS6KA2",
+                    "id": "RPS6KA2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d4"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RPS6KA3",
+                    "id": "RPS6KA3",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d4"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RPS6KA5",
+                    "id": "RPS6KA5",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626bf"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "ELK4",
+                    "id": "ELK4",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#262636"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PAK1",
+                    "id": "PAK1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626f9"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "NCOA3",
+                    "id": "NCOA3",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626c1"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PTK2",
+                    "id": "PTK2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#26267a"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "NEDD4",
+                    "id": "NEDD4",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626cf"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PIAS3",
+                    "id": "PIAS3",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626e5"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PTPN11,GAB2,GRB2",
+                    "id": "PTPN11,GAB2,GRB2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626a3"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "STXBP1",
+                    "id": "STXBP1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626f7"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PRKCD",
+                    "id": "PRKCD",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#262668"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "PTK2B",
+                    "id": "PTK2B",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d2"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "KHDRBS1",
+                    "id": "KHDRBS1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626da"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RAB5A",
+                    "id": "RAB5A",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626b3"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RIN1",
+                    "id": "RIN1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#26266c"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RALB",
+                    "id": "RALB",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#262661"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "RALBP1",
+                    "id": "RALBP1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626a8"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "SOCS3",
+                    "id": "SOCS3",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626de"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "ATF1",
+                    "id": "ATF1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#262678"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "CREB1",
+                    "id": "CREB1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#262678"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "SH3GL2",
+                    "id": "SH3GL2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#262695"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "SOS2",
+                    "id": "SOS2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d2"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "BCAR1",
+                    "id": "BCAR1",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d3"
+                }
+            },
+            {
+                "data": {
+                    "height": 50,
+                    "content": "MCF2",
+                    "id": "MCF2",
+                    "width": 50,
+                    "text_border_color": "#FFFFFF",
+                    "background_color": "#2626d0"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "target": "EPS8",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "ABI1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EPN1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "AP2A1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EPS15",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "AP2A1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "AP2A1"
+                }
+            },
+            {
+                "data": {
+                    "target": "REPS2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "ASAP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SH3KBP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "ASAP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "DNM1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CAV1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CAV1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR,SRC,PTK2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CAV1"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB7",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CAV1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CAV1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CAV1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLD1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CAV1"
+                }
+            },
+            {
+                "data": {
+                    "target": "RASA1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CAV2"
+                }
+            },
+            {
+                "data": {
+                    "target": "SRC",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CAV2"
+                }
+            },
+            {
+                "data": {
+                    "target": "CRK",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBL"
+                }
+            },
+            {
+                "data": {
+                    "target": "CRKL",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBL"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBL"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBL"
+                }
+            },
+            {
+                "data": {
+                    "target": "PIK3R1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBL"
+                }
+            },
+            {
+                "data": {
+                    "target": "PIK3R2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBL"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLCG1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBL"
+                }
+            },
+            {
+                "data": {
+                    "target": "SH3KBP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBL"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBL"
+                }
+            },
+            {
+                "data": {
+                    "target": "SPRY2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBL"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Ubiquitination']</b>",
+                    "source": "CBLB"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBLB"
+                }
+            },
+            {
+                "data": {
+                    "target": "PIK3R1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBLB"
+                }
+            },
+            {
+                "data": {
+                    "target": "CRK",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBLC"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBLC"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBLC"
+                }
+            },
+            {
+                "data": {
+                    "target": "SPRY2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CBLC"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP3K1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CDC42"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP3K4",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CDC42"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CEACAM1"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBL",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CRK"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBLC",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CRK"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CRK"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CRK"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK8",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CRK"
+                }
+            },
+            {
+                "data": {
+                    "target": "SOS1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CRK"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBL",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CRKL"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CSK"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTPN6",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "CTNND1"
+                }
+            },
+            {
+                "data": {
+                    "target": "CAV1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "DNM1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SH3GL3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "DNM1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "DOK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "NCK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "DOK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "RASA1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "DOK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Ligand_Binding']</b>",
+                    "source": "EGF"
+                }
+            },
+            {
+                "data": {
+                    "target": "CAV1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBL",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBLB",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBLC",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "CRK",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "CSK",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "DOK2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "EPS15",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "EPS8",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "ERRFI1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "GAB1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB10",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "INPPL1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "JAK1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "JAK2",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP2K1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP3K14",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "NCK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "NCK2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "PIK3C2B",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLCG1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLD1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLD2",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLSCR1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "PRKCA",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTK6",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTPN11",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTPN6",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "RASA1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "RGS16",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "RIPK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1,GRB2,SOS1,IQGAP1,RACGAP1,VAV2,VAV3,AP2A1,AP2B1,AP2S1,CBLB,PTPN11,KRT7,KRT8,KRT17,KRT18,PLEC,EPPK1,CD59,HIST3H3,SNRPD2,MPRIP,SMU1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "SNRPD2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "SRC",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAMBP",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT3",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT5A",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT5B",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "TNK2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "VAV1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "VAV2",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "VAV3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR"
+                }
+            },
+            {
+                "data": {
+                    "target": "CAV1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EGFR,SRC,PTK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "ELK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "ELK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "AP2A1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EPN1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EPS15L1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EPN1"
+                }
+            },
+            {
+                "data": {
+                    "target": "AP2A1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EPS15"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EPS15"
+                }
+            },
+            {
+                "data": {
+                    "target": "EPN1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EPS15L1"
+                }
+            },
+            {
+                "data": {
+                    "target": "ABI1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EPS8"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EPS8"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EPS8"
+                }
+            },
+            {
+                "data": {
+                    "target": "USP6NL",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "EPS8"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "ERRFI1"
+                }
+            },
+            {
+                "data": {
+                    "target": "JUN",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "FOS"
+                }
+            },
+            {
+                "data": {
+                    "target": "JUND",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "FOS"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GAB1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PIK3R1,PIK3R2,PIK3R3,PIK3CA,PIK3CB,PIK3CG,PIK3CD",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GAB1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLCG1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GAB1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTPN11",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GAB1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTPN11,PXN",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GAB1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PXN",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GAB1"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GAB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "PIK3R1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GAB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTPN11",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GAB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "SRC",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GAB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK7",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GJA1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB10"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBL",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBLB",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBLC",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "CRK",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "GAB1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "GAB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP3K1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "PIK3C2B",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "PIK3R1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "REPS2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "SOS1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "TNK2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB2,SOS1"
+                }
+            },
+            {
+                "data": {
+                    "target": "CAV1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRB7"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "GRIM19"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP3K1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "HRAS"
+                }
+            },
+            {
+                "data": {
+                    "target": "RAF1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "HRAS"
+                }
+            },
+            {
+                "data": {
+                    "target": "RALGDS",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "HRAS"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "INPPL1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "INPPL1"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "JAK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "JAK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTPN12",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "JAK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "JAK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "JAK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "FOS",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "JUN"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "JUN"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "JUN"
+                }
+            },
+            {
+                "data": {
+                    "target": "SP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "JUN"
+                }
+            },
+            {
+                "data": {
+                    "target": "FOS",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "JUND"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP2K1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "MAP2K1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP2K1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PEBP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP2K1"
+                }
+            },
+            {
+                "data": {
+                    "target": "RAF1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP2K1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP2K2"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK3",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "MAP2K2"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP2K3"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP3K3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP2K5"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK7",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP2K5"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK8",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP2K7"
+                }
+            },
+            {
+                "data": {
+                    "target": "CDC42",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP3K1"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP3K1"
+                }
+            },
+            {
+                "data": {
+                    "target": "HRAS",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP3K1"
+                }
+            },
+            {
+                "data": {
+                    "target": "RAC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP3K1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP3K1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP3K14"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP2K5",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP3K3"
+                }
+            },
+            {
+                "data": {
+                    "target": "CDC42",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP3K4"
+                }
+            },
+            {
+                "data": {
+                    "target": "RAC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAP3K4"
+                }
+            },
+            {
+                "data": {
+                    "target": "CAV1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "ELK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "JUN",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "JUND",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP2K1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP2K2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PEBP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTPN5",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTPRR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "RPS6KA1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "RPS6KA2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "RPS6KA3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "RPS6KA5",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "MAPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "CAV1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK3"
+                }
+            },
+            {
+                "data": {
+                    "target": "ELK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK3"
+                }
+            },
+            {
+                "data": {
+                    "target": "JUN",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK3"
+                }
+            },
+            {
+                "data": {
+                    "target": "JUND",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "MAPK3"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP2K1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK3"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP2K2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK3"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP2K3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK3"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTPN5",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK3"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTPRR",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "MAPK3"
+                }
+            },
+            {
+                "data": {
+                    "target": "RPS6KA1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK3"
+                }
+            },
+            {
+                "data": {
+                    "target": "RPS6KA2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK3"
+                }
+            },
+            {
+                "data": {
+                    "target": "RPS6KA3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK3"
+                }
+            },
+            {
+                "data": {
+                    "target": "ELK4",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "MAPK7"
+                }
+            },
+            {
+                "data": {
+                    "target": "GJA1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "MAPK7"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP2K5",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK7"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTPRR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK7"
+                }
+            },
+            {
+                "data": {
+                    "target": "CRK",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK8"
+                }
+            },
+            {
+                "data": {
+                    "target": "ELK1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "MAPK8"
+                }
+            },
+            {
+                "data": {
+                    "target": "JUN",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "MAPK8"
+                }
+            },
+            {
+                "data": {
+                    "target": "JUND",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "MAPK8"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP2K7",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "MAPK8"
+                }
+            },
+            {
+                "data": {
+                    "target": "DOK2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "NCK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "NCK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PAK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "NCK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "NCK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "PAK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "NCK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "PAK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "NCOA3"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTK2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "NCOA3"
+                }
+            },
+            {
+                "data": {
+                    "target": "TNK2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "NEDD4"
+                }
+            },
+            {
+                "data": {
+                    "target": "NCK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PAK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "NCK2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PAK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "NCOA3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PAK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP2K1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PEBP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PEBP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "RAF1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PEBP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PIAS3"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PIK3C2B"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PIK3C2B"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBL",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PIK3R1"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBLB",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PIK3R1"
+                }
+            },
+            {
+                "data": {
+                    "target": "GAB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PIK3R1"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PIK3R1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTPN11,GAB2,GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PIK3R1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PIK3R1"
+                }
+            },
+            {
+                "data": {
+                    "target": "GAB1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PIK3R1,PIK3R2,PIK3R3,PIK3CA,PIK3CB,PIK3CG,PIK3CD"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBL",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PIK3R2"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PIK3R2"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBL",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLCG1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLCG1"
+                }
+            },
+            {
+                "data": {
+                    "target": "GAB1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLCG1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLD2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLCG1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SOS1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLCG1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SRC",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLCG1"
+                }
+            },
+            {
+                "data": {
+                    "target": "CAV1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLD1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLD1"
+                }
+            },
+            {
+                "data": {
+                    "target": "STXBP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLD1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLD2"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLCG1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLD2"
+                }
+            },
+            {
+                "data": {
+                    "target": "STXBP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLD2"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLSCR1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PLSCR1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PRKCA"
+                }
+            },
+            {
+                "data": {
+                    "target": "PEBP1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "PRKCA"
+                }
+            },
+            {
+                "data": {
+                    "target": "SP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PRKCD"
+                }
+            },
+            {
+                "data": {
+                    "target": "NCOA3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "SRC",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTK2B"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTK6"
+                }
+            },
+            {
+                "data": {
+                    "target": "KHDRBS1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "PTK6"
+                }
+            },
+            {
+                "data": {
+                    "target": "PXN",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTK6"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Dephosphorylation']</b>",
+                    "source": "PTPN11"
+                }
+            },
+            {
+                "data": {
+                    "target": "GAB1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTPN11"
+                }
+            },
+            {
+                "data": {
+                    "target": "GAB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTPN11"
+                }
+            },
+            {
+                "data": {
+                    "target": "PXN",
+                    "popup": "<b>['Dephosphorylation']</b>",
+                    "source": "PTPN11"
+                }
+            },
+            {
+                "data": {
+                    "target": "PIK3R1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTPN11,GAB2,GRB2"
+                }
+            },
+            {
+                "data": {
+                    "target": "GAB1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTPN11,PXN"
+                }
+            },
+            {
+                "data": {
+                    "target": "JAK2",
+                    "popup": "<b>['Dephosphorylation']</b>",
+                    "source": "PTPN12"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTPN5"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTPN5"
+                }
+            },
+            {
+                "data": {
+                    "target": "CTNND1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTPN6"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTPN6"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTPRR"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTPRR"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK7",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PTPRR"
+                }
+            },
+            {
+                "data": {
+                    "target": "GAB1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PXN"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTK6",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "PXN"
+                }
+            },
+            {
+                "data": {
+                    "target": "RIN1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RAB5A"
+                }
+            },
+            {
+                "data": {
+                    "target": "USP6NL",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RAB5A"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP3K1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RAC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP3K4",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RAC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "HRAS",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RAF1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP2K1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "RAF1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PEBP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RAF1"
+                }
+            },
+            {
+                "data": {
+                    "target": "RALBP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RALB"
+                }
+            },
+            {
+                "data": {
+                    "target": "RALB",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RALBP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "REPS2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RALBP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "HRAS",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RALGDS"
+                }
+            },
+            {
+                "data": {
+                    "target": "CAV2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RASA1"
+                }
+            },
+            {
+                "data": {
+                    "target": "DOK2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RASA1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RASA1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SOCS3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RASA1"
+                }
+            },
+            {
+                "data": {
+                    "target": "ASAP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "REPS2"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "REPS2"
+                }
+            },
+            {
+                "data": {
+                    "target": "RALBP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "REPS2"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RGS16"
+                }
+            },
+            {
+                "data": {
+                    "target": "RAB5A",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RIN1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RIPK1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RPS6KA1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RPS6KA1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RPS6KA2"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RPS6KA2"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RPS6KA3"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAPK3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "RPS6KA3"
+                }
+            },
+            {
+                "data": {
+                    "target": "ATF1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "RPS6KA5"
+                }
+            },
+            {
+                "data": {
+                    "target": "CREB1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "RPS6KA5"
+                }
+            },
+            {
+                "data": {
+                    "target": "SH3KBP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SH3GL2"
+                }
+            },
+            {
+                "data": {
+                    "target": "DNM1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SH3GL3"
+                }
+            },
+            {
+                "data": {
+                    "target": "ASAP1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SH3KBP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBL",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SH3KBP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SH3GL2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SH3KBP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "AP2A1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBL",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "CEACAM1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EPS8",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2,SOS1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "INPPL1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "MAP3K1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PIK3R1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PIK3R2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLSCR1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SOS1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SOS2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SRC",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SHC1,GRB2,SOS1,IQGAP1,RACGAP1,VAV2,VAV3,AP2A1,AP2B1,AP2S1,CBLB,PTPN11,KRT7,KRT8,KRT17,KRT18,PLEC,EPPK1,CD59,HIST3H3,SNRPD2,MPRIP,SMU1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SNRPD2"
+                }
+            },
+            {
+                "data": {
+                    "target": "RASA1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SOCS3"
+                }
+            },
+            {
+                "data": {
+                    "target": "CRK",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SOS1"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SOS1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLCG1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SOS1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SOS1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SOS2"
+                }
+            },
+            {
+                "data": {
+                    "target": "JUN",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PRKCD",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBL",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SPRY2"
+                }
+            },
+            {
+                "data": {
+                    "target": "CBLC",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SPRY2"
+                }
+            },
+            {
+                "data": {
+                    "target": "BCAR1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "SRC"
+                }
+            },
+            {
+                "data": {
+                    "target": "CAV2",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "SRC"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "SRC"
+                }
+            },
+            {
+                "data": {
+                    "target": "GAB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SRC"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLCG1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SRC"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLSCR1",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "SRC"
+                }
+            },
+            {
+                "data": {
+                    "target": "PTK2B",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SRC"
+                }
+            },
+            {
+                "data": {
+                    "target": "SHC1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SRC"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SRC"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SRC"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT5A",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "SRC"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAMBP"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT1"
+                }
+            },
+            {
+                "data": {
+                    "target": "JAK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT1"
+                }
+            },
+            {
+                "data": {
+                    "target": "JAK2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT1"
+                }
+            },
+            {
+                "data": {
+                    "target": "SRC",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT1"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT3"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRIM19",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT3"
+                }
+            },
+            {
+                "data": {
+                    "target": "JAK1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT3"
+                }
+            },
+            {
+                "data": {
+                    "target": "JAK2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT3"
+                }
+            },
+            {
+                "data": {
+                    "target": "PIAS3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT3"
+                }
+            },
+            {
+                "data": {
+                    "target": "SRC",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT3"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT3"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT5B",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT3"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT5A"
+                }
+            },
+            {
+                "data": {
+                    "target": "SRC",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT5A"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT5B"
+                }
+            },
+            {
+                "data": {
+                    "target": "STAT3",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STAT5B"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLD1",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STXBP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "PLD2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "STXBP1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "TNK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "GRB2",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "TNK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "MCF2",
+                    "popup": "<b>['Phosphorylation']</b>",
+                    "source": "TNK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "NEDD4",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "TNK2"
+                }
+            },
+            {
+                "data": {
+                    "target": "EPS8",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "USP6NL"
+                }
+            },
+            {
+                "data": {
+                    "target": "RAB5A",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "USP6NL"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "VAV1"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "VAV2"
+                }
+            },
+            {
+                "data": {
+                    "target": "EGFR",
+                    "popup": "<b>['Interaction']</b>",
+                    "source": "VAV3"
+                }
+            }
+        ]
+    }
+}

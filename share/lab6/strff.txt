@@ -1,0 +1,43 @@
+10-28-16 comp bio
+-network clustering
+--k-algorithim
+--a type 2 optimization problem, it tries to maximize cohesiveness or minimize distance, 
+and it ensures that there are at most k clusters
+--type 2 k-center clustering prolbems are generally NP-hard
+-center based clustering, one type is k-means clustering
+-given a nmber of clusters k, find k clusters
+-cluster centers are the mean of all points in the cluster
+-to do this 4 points are picked, and all the pints in the network are measured against
+these ndoes
+-then the means are taken of these subnetworks
+-given a number of clusters k, partition the nodes of a graph G(ve) into at most k clusters
+such that the largest distance from any node to its cluster center is minimized
+G may be weighted.
+-given a complete graph G=(V,E) with edge weights for every pair of nodes find a subset 
+of at most k vertices S that minimizes w(s) = maxnode min vert Wuv
+-this means compute the minimum weight for each node and then find the maximum of all of
+those values
+-so k-center clustering
+--has 3 important subroutines
+--a maximal independent set is the first one.
+--and independent set of a graph is a set of nodes if no pari of nodes share an edge in the induced subgraph of i on g
+-an independent set I is maximal if there are no additional nodes in v that could be added 
+and still be an indpenedent set
+-greedy maximal independent set algorithim
+--initialize a list
+--while nodes is not empty:
+--pick a vertex and ignore its neighbors
+-the bottleneck graph for a weighted graph G and a number c is a subgraph of all edges of
+the given value or lower
+-the keth power of a graphh is a graph where edges contain edges such that the distance is at most k
+-the algorithim takes as an input the sorted edges aas well as the dictionary
+-check weights in increadsing order for each one the bottleneck
+-this works because the gfeedy max set. 
+
+-dispostions as a function
+-input situation, output action and feeling
+=put them in a situation where viture is elicited, then they will act in a virtue relevant way
+=psychological data and the dime example of people as 
+-virtue or good action as something that can be taught
+-how a subject percieves a situation could be important to this idea
+-

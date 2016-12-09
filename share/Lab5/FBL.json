@@ -1,0 +1,260 @@
+{
+    "graph": {
+        "nodes": [
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "a", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "a"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "c", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "c"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "b", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "b"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "e", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "e"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "d", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "d"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "g", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "g"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "f", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "f"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "i", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "i"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "h", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "h"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "j", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "j"
+                }
+            }
+        ], 
+        "edges": [
+            {
+                "data": {
+                    "source": "j", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "j", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "d", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "d", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "f", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "g", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "b", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "i", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "d", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "e", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "g", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "h", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "a", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "a", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "e", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "h", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "a", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "h", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "j", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "b", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "d", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "i", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "c", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "a", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "f", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "c", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "c", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "f", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "h", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "b", 
+                    "target_arrow_shape": "triangle"
+                }
+            }
+        ]
+    }, 
+    "metadata": {
+        "tags": [
+            "Lab5"
+        ], 
+        "description": "Lab5001", 
+        "title": "Lab5 toyFBL"
+    }
+}

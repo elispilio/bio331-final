@@ -1,0 +1,1812 @@
+{
+    "graph": {
+        "nodes": [
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "HSF1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "HSF1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "ZAP1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "ZAP1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "MSN1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "MSN1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "RTG1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "RTG1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "MSN4", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "MSN4"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "STP2", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "STP2"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "UGA3", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "UGA3"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "SOK2", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "SOK2"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "SFL1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "SFL1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "ZMS1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "ZMS1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "SMP1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "SMP1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "STE12", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "STE12"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "RTG3", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "RTG3"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "GCN4", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "GCN4"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "HIR1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "HIR1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "CIN5", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "CIN5"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "ASH1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "ASH1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "GTS1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "GTS1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "ADR1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "ADR1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "SIP4", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "SIP4"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "RPH1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "RPH1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "REB1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "REB1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "IME4", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "IME4"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "MAC1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "MAC1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "CUP9", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "CUP9"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "HAL9", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "HAL9"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "DIG1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "DIG1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "FZF1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "FZF1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "A1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "A1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "HMS1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "HMS1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "SFP1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "SFP1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "FHL1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "FHL1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "NRG1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "NRG1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "ABF1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "ABF1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "YAP1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "YAP1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "FKH2", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "FKH2"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "CBF1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "CBF1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "MSS11", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "MSS11"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "PUT3", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "PUT3"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "PHO2", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "PHO2"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "PHO4", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "PHO4"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "GCR2", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "GCR2"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "HAP4", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "HAP4"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "MBP1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "MBP1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "GLN3", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "GLN3"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "GAT1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "GAT1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "RIM101", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "RIM101"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "GAT3", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "GAT3"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "ARO80", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "ARO80"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "CRZ1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "CRZ1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "LEU3", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "LEU3"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "MCM1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "MCM1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "ACE2", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "ACE2"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "YAP6", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "YAP6"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "YAP5", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "YAP5"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "STB1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "STB1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "NDD1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "NDD1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "INO4", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "INO4"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "CAD1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "CAD1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "SKN7", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "SKN7"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "MET4", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "MET4"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "INO2", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "INO2"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "RCS1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "RCS1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "RAP1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "RAP1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "BAS1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "BAS1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "ROX1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "ROX1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "SUM1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "SUM1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "STP1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "STP1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "PHD1", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "PHD1"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "MOT3", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "MOT3"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "CHA4", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "CHA4"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "SWI5", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "SWI5"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "SWI4", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "SWI4"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "SWI6", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "SWI6"
+                }
+            }, 
+            {
+                "data": {
+                    "border_color": "black", 
+                    "height": 50, 
+                    "content": "DAL81", 
+                    "width": 50, 
+                    "border_width": 1, 
+                    "background_color": "#e56666", 
+                    "id": "DAL81"
+                }
+            }
+        ], 
+        "edges": [
+            {
+                "data": {
+                    "source": "ACE2", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "FKH2", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ACE2", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MCM1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ACE2", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "NDD1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "FKH2", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "FHL1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "NDD1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "STB1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "NDD1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "NDD1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI6", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SWI4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MBP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SWI4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MCM1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SWI4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SWI4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI6", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SWI5", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "FKH2", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SWI5", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MCM1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SWI5", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "NDD1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SWI5", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "INO2", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SWI5", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "INO4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "A1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "GAT3", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "A1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "RTG3", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ASH1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI5", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ASH1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SMP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "HMS1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SFP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "IME4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ABF1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "MOT3", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "RIM101", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ABF1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SOK2", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SKN7", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SOK2", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SOK2", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "PHD1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "STE12", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "DIG1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "STE12", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "STE12", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SUM1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SUM1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ABF1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MBP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ABF1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI6", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "FHL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ABF1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "FHL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MSN4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "HIR1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "CAD1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "RAP1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "RAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "REB1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "HSF1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "REB1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "CBF1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "CIN5", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "YAP6", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "CRZ1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "PHO2", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "CRZ1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "PHO4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "CUP9", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "PHD1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "CUP9", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MAC1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "GTS1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "REB1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "HSF1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "RAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "MSN1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ABF1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "MSN1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "CIN5", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "MSN4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "PHD1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "MSN4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "RAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "MSN4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "HAL9", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "RCS1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "RAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "RCS1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "RCS1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ROX1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SKN7", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ROX1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "CIN5", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ROX1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "YAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ROX1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "YAP6", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "RPH1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "RAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SMP1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SMP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ACE2", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SKN7", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP5", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MET4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP6", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "CIN5", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP6", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "CUP9", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP6", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ROX1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP6", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "YAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP6", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "YAP6", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "YAP6", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "NRG1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ZAP1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ZAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ZMS1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "FKH2", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ZMS1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "NDD1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ZMS1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "PHD1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ADR1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "STP2", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "ARO80", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ARO80", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "BAS1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "RTG1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "CHA4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "MSS11", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "DAL81", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ABF1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "GAT1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ACE2", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "GAT1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "FKH2", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "GAT1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI5", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "GAT1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "RAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "GAT3", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI5", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "GAT3", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "NRG1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "GCN4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "FHL1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "GCN4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "GLN3", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "HAP4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "PHD1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "LEU3", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ZMS1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "MET4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "GCN4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "MET4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "LEU3", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "NRG1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SKN7", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "NRG1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "NRG1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "PHO2", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ABF1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "PUT3", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ABF1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "PUT3", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "GCN4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "PUT3", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "HAP4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SFL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ACE2", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SFL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SKN7", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SFL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "STB1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SFL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SWI5", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SFL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "IME4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SFL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SMP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SFL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "FZF1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SFL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "GCR2", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SFL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "NRG1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SFL1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "SFP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "SIP4", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "RAP1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "STP1", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "ABF1", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "UGA3", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "GCN4", 
+                    "target_arrow_shape": "triangle"
+                }
+            }, 
+            {
+                "data": {
+                    "source": "UGA3", 
+                    "target_arrow_fill": "filled", 
+                    "target_arrow_color": "black", 
+                    "target": "GLN3", 
+                    "target_arrow_shape": "triangle"
+                }
+            }
+        ]
+    }, 
+    "metadata": {
+        "tags": [
+            "Lab5"
+        ], 
+        "description": "Lab5011", 
+        "title": "Lab5 full yeastFFL"
+    }
+}
