@@ -25,11 +25,11 @@ def main():
 	#a = cliqueFinder(graph,weights)
 	#print(list(nx.find_cliques(nxgraph)))
 	#print(a)
-	pos = nx.circular_layout(nxgraph)
-	for node in nxgraph.nodes():
-		nx.draw_networkx_nodes(nxgraph,pos,nodelist=[node],node_color='#FF0000',node_size = 25, alpha=0.5)
-		nx.draw_networkx_edges(nxgraph,pos,edgelist=edges,width=1.0,alpha=0.5,edge_color='#000000')
-		plt.savefig('ohgodplswork.png')
+	#pos = nx.circular_layout(nxgraph)
+	#for node in nxgraph.nodes():
+		#nx.draw_networkx_nodes(nxgraph,pos,nodelist=[node],node_color='#FF0000',node_size = 25, alpha=0.5)
+		#nx.draw_networkx_edges(nxgraph,pos,edgelist=edges,width=1.0,alpha=0.5,edge_color='#000000')
+		#plt.savefig('ohgodplswork.png')
 
 def w_reader(filename):
 	with open(filename, newline='') as csvfile:
