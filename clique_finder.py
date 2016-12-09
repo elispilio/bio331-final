@@ -22,10 +22,8 @@ def main():
 	for a in weighted:
 		weights.append(a[0])
 	graph = [nodes, edges]
-	#a = cliqueFinder(graph,weights)
-	#list(nx.find_cliques(nxgraph))
-	#print(a)
-	
+	cliqueFinder(graph,weights)
+	#print(list(nx.find_cliques(nxgraph)))
 
 def w_reader(filename):
 	with open(filename, newline='') as csvfile:
@@ -99,6 +97,7 @@ def cliqueFinder(G,weights):
 			unseen.append(maxi)
 		else:
 			break
+	print(unseen)	
 	neighbs = {}
 	for n in nodes:
 		neigh = []
@@ -139,7 +138,13 @@ def cliqueFinder(G,weights):
 			for z in itera:
 				iterab.append(z)
 			for w in iterab:
-				queue.append(w)
+				maxim = 0
+				m = 0
+				if deg[w] > maxim:
+					maxim = deg[w]
+					m = w
+				queue.append(m)
+				iterab.remove(m)
 			del queue[0]
 		setList.append(clusterSet)
 	return clusterSet
