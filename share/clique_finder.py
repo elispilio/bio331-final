@@ -22,9 +22,10 @@ def main():
 	for a in weighted:
 		weights.append(a[0])
 	graph = [nodes, edges]
-	#a = cliqueFinder(graph,weights)
+	a = cliqueFinder(graph,weights)
+
 	#print(list(nx.find_cliques(nxgraph)))
-	#print(a)
+	print(a[0])
 	#pos = nx.circular_layout(nxgraph)
 	#for node in nxgraph.nodes():
 		#nx.draw_networkx_nodes(nxgraph,pos,nodelist=[node],node_color='#FF0000',node_size = 25, alpha=0.5)
@@ -68,6 +69,7 @@ def reader(filenames):
 clique_finder by Eli Spiliotopoulos
 the purpose of this set of functions is to read in interactome data and find cliques based on expression, which is expressed by the weights attributed to the nodes. These weights are found via expression data. In the absence of the full RNA-seq dataset to find expression rates, the table of most expressed protiens will be substituted. 
 """
+testlist = []
 def cliqueFinder(G,weights):
 	"""
 	finds cliques based on read in weights file
@@ -128,6 +130,7 @@ def cliqueFinder(G,weights):
 			maxim = 0
 			m = 0
 			neighbViable = set()
+			testlist.append(viables)
 			for a in viables:
 				if a in unseen:
 					if deg[a] > maxim:
@@ -138,11 +141,8 @@ def cliqueFinder(G,weights):
 				for n in neighbs[m]:
 					if n in unseen:
 						neighbViable.add(n)
-			itera = viables.intersection(neighbViable)
-			iterab = []
-			for z in itera:
-				iterab.append(z)
-			for w in iterab:
+			iterab = list(viables.intersection(neighbViable))
+			for w in iterab: #adds to queue by degree
 				maxim = 0
 				m = 0
 				if deg[w] > maxim:
@@ -152,7 +152,7 @@ def cliqueFinder(G,weights):
 				iterab.remove(m)
 			del queue[0]
 		setList.append(clusterSet)
-	return clusterSet
+	return setList
 
 if __name__ == "__main__":
 	main()
