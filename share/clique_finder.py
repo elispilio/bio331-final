@@ -23,9 +23,10 @@ def main():
 		weights.append(a[0])
 	graph = [nodes, edges]
 	a = cliqueFinder(graph,weights)
-
+	for x in a:
+		if len(x) > 2:
+			print(x)
 	#print(list(nx.find_cliques(nxgraph)))
-	print(a[0])
 	#pos = nx.circular_layout(nxgraph)
 	#for node in nxgraph.nodes():
 		#nx.draw_networkx_nodes(nxgraph,pos,nodelist=[node],node_color='#FF0000',node_size = 25, alpha=0.5)
