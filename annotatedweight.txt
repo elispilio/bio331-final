@@ -1,0 +1,14 @@
+Unigene5957 Ubiquitin-conjugating enzyme E2 D/E
+unigene2331 Protein disulfide-isomerase A6
+unigene8333 F-type H + -transporting ATPase subunit b
+unigene13468 Glutathione peroxidase
+unigene11238 6-phosphogluconate dehydrogenase
+uingene8825 Heat shock 70 kDa protein 1/8
+unigene26714 Molecular chaperone HtpG
+unigene14907 Tubulin alpha
+unigene1923 nucleolin
+unigene777 Adenylyltransferase and sulfurtransferase
+unigene1945 Splicing factor U2AF 35 kDa subunit
+unigene1731 splicing factor, arginine/serine-rich 2
+unigene15047 Serine/arginine repetitive matrix protein 1
+unigene15864 Protein transport protein SEC24

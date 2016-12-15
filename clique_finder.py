@@ -5,6 +5,7 @@ import math
 import csv
 import numpy as np
 import pylab
+from itertools import combinations
 import networkx as nx
 
 """
@@ -16,15 +17,45 @@ def main():
 	nxgraph = nx.Graph()
 	nxgraph.add_edges_from(edges)
 	nodes = nxgraph.nodes()
-	weighted = w_reader('table-4.csv')
+	weighted = w_reader('annotatedweight.txt')
 	del weighted[0]
 	weights = []
 	for a in weighted:
 		weights.append(a[0])
 	graph = [nodes, edges]
-	cliqueFinder(graph,weights)
-	#print(list(nx.find_cliques(nxgraph)))
-
+	#p = cliquepics('cliques.txt')
+	#newgraph = nx.Graph()
+	#for edge in p:
+		#if len(edge) == 6:
+			#newlist = edge
+	#newedges = []
+	#for edge in combinations(newlist,2):
+		#newedges.append(edge)
+	#newgraph.add_edges_from(newedges)
+	#labels = {}
+	#for node in newlist:
+		#labels[node]=node
+	ab = cliqueFinder(graph,weights)
+	reportcliques = open('reportcliques.txt','w')
+	#ab = list(nx.find_cliques(nxgraph))
+	for x in ab:
+		reportcliques.write(str(x))
+		reportcliques.write('\n')
+	#newnewnewcliques.close()
+	#pos = nx.spring_layout(newgraph)
+	#for node in newgraph.nodes():
+		#nx.draw_networkx_nodes(newgraph,pos,nodelist=newlist,node_color='#FF0000',node_size = 100, alpha=0.5,with_labels = True)
+		#nx.draw_networkx_edges(newgraph,pos,edgelist=newedges,width=1.0,alpha=0.5,edge_color='#000000')
+		#nx.draw_networkx_labels(newgraph,pos,labels,font_size=16)
+		#plt.savefig('ohgodplswork3.png')
+def cliquepics(cliquesfile):
+	with open(cliquesfile) as f:
+		csvreader = csv.reader(f)
+		nodelist = []
+		for line in csvreader:
+			#l = line.split('""')[1::2]
+			nodelist.append(line)
+	return nodelist
 def w_reader(filename):
 	with open(filename, newline='') as csvfile:
 		spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
@@ -62,6 +93,7 @@ def reader(filenames):
 clique_finder by Eli Spiliotopoulos
 the purpose of this set of functions is to read in interactome data and find cliques based on expression, which is expressed by the weights attributed to the nodes. These weights are found via expression data. In the absence of the full RNA-seq dataset to find expression rates, the table of most expressed protiens will be substituted. 
 """
+testlist = []
 def cliqueFinder(G,weights):
 	"""
 	finds cliques based on read in weights file
@@ -97,7 +129,6 @@ def cliqueFinder(G,weights):
 			unseen.append(maxi)
 		else:
 			break
-	print(unseen)	
 	neighbs = {}
 	for n in nodes:
 		neigh = []
@@ -108,21 +139,22 @@ def cliqueFinder(G,weights):
 				neigh.append(e[0])
 		neighbs[n]=neigh
 	setList = []
-	while unseen:
-		queue = [unseen[0]]
-		clusterSet = set()
-		while queue:
+	while unseen: #while unseen is not empty
+		queue = [unseen[0]] #unseen is ordered by weights and degree first unseen goes to queue
+		clusterSet = set() #a new clique is opened
+		while queue: #while there are nodes in the queue
 			for y in queue:
 				if y in unseen:
-					unseen.remove(y)
+					unseen.remove(y) #remove the node from unseen
 			viables = set()
-			clusterSet.add(queue[0])
-			for n in neighbs[queue[0]]:
+			clusterSet.add(queue[0]) #the node is the first member of the set
+			for n in neighbs[queue[0]]: #all the neighbors that arent seen are viable members of the clique
 				if n in unseen:
 					viables.add(n)
 			maxim = 0
 			m = 0
 			neighbViable = set()
+			testlist.append(viables)
 			for a in viables:
 				if a in unseen:
 					if deg[a] > maxim:
@@ -132,22 +164,19 @@ def cliqueFinder(G,weights):
 			if m != 0:
 				for n in neighbs[m]:
 					if n in unseen:
-						neighbViable.add(n)
-			itera = viables.intersection(neighbViable)
-			iterab = []
-			for z in itera:
-				iterab.append(z)
-			for w in iterab:
+						neighbViable.add(n) #add the maximum degree neighbor of the viable neighbor
+			iterab = list(viables.intersection(neighbViable)) # all the nodes that are connected to both of them
+			for w in iterab: #adds to queue by degree
 				maxim = 0
 				m = 0
 				if deg[w] > maxim:
 					maxim = deg[w]
 					m = w
-				queue.append(m)
-				iterab.remove(m)
+				queue.append(m) #add the next node to the queue
+				iterab.remove(m)#remove the node from iterab
 			del queue[0]
-		setList.append(clusterSet)
-	return clusterSet
+		setList.append(clusterSet) #add the clique to the list
+	return setList
 
 if __name__ == "__main__":
 	main()
